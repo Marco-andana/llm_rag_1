@@ -85,18 +85,4 @@ Ini menggunakan pengetahuan umum model.
 
 curl -X POST http://localhost:5000/ask \
      -H "Content-Type: application/json" \
-     -d '{"prompt": "Ceritakan lelucon singkat tentang programmer", "model": "mistral:instruct"}'
-
-
-Tes Endpoint RAG (/ask_rag)
-
-Ini akan menjawab berdasarkan file .txt di dalam folder data/.
-
-Pertanyaan 1 (dari file_produk.txt):
-
-curl -X POST http://localhost:5000/ask_rag \
-     -H "Content-Type: application/json" \
-     -d '{"prompt": "Berapa setoran awal untuk Tabungan Emas?"}'
-
-
-Jawaban yang Diharapkan: Setoran awal untuk Tabungan Emas adalah Rp 100.000.
+     -d '{"prompt": "Tell me a joke about programmer", "model": "mistral:instruct"}'
