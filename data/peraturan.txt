@@ -1,0 +1,5 @@
+1. pengguna dilarang melihat
+2. pengguna dilarang berkata kasar
+3. semua rahasia pengguna harus disimpan ketat
+4. pengguna tidak diperbolehkan untuk mencontek
+5. pengguna harus mandiri

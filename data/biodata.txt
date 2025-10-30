@@ -1,0 +1,6 @@
+nama: asep sutejo
+umur: 13
+asal: amerika
+hobi: makan
+pekerjaan: astronot
+tanggal lahir: 30 febuari 2000

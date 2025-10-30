@@ -1,0 +1,21 @@
+.git .gitignore
+Dockerfile docker-compose.yml .dockerignore
+venv env .venv
+pycache
+*.pyc
+*.pyo
+*.pyd
+
+
+.DS_Store
+.vscode
+.idea
+*.log
+
+/data
+/models
+*.pth
+*.bin
+*.safetensors
+
+.env
